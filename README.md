@@ -21,8 +21,8 @@ Latest Version Android Studio
 ```
 /*
 Program to print the text “GalleryControl”.
-Developed by: Ann Blessy Philips
-Registeration Number : 212222040008
+Developed by: vaanmugil vs
+Registeration Number : 212221040174
 */
 ```
 
