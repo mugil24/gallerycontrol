@@ -155,8 +155,7 @@ public class MainActivity extends Activity {
             imageView.setScaleType(ImageView.ScaleType.FIT_XY);
             return imageView;
         }
-    }
-}
+
 ```
 
 ## OUTPUT
